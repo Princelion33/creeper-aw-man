@@ -1,6 +1,6 @@
 wait(1)
 local args = {
-    [1] = "Creeper",
+    [1] = "Creeper, oh man",
     [2] = "All"
 }
 
@@ -8,7 +8,7 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 
 wait(3)
 local args = {
-    [1] = "Aw man",
+    [1] = "So we back in the mine, got our pick axe swinging from side to side",
     [2] = "All"
 }
 
@@ -16,7 +16,7 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 
 wait(3)
 local args = {
-    [1] = "So we back in the mine",
+    [1] = "Side, side to side",
     [2] = "All"
 }
 
@@ -24,7 +24,7 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 
 wait(3)
 local args = {
-    [1] = "Got our pickaxe swinging from side to side",
+    [1] = "This task a grueling one, hope to find some diamonds tonight, night, night",
     [2] = "All"
 }
 
@@ -32,7 +32,319 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 
 wait(3)
 local args = {
-    [1] = "Side-side to side",
+    [1] = "Diamonds tonight",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Heads up, you hear a sound, turn around and look up, total shock fills your body",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Oh no it's you again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "I could never forget those eyes, eyes, eyes",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Eyes, eyes, eyes",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, the creeper's trying to steal all our stuff again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, you grab your pick, shovel and bolt again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "And run, run until it's done, done, until the sun comes up in the morn'",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, the creeper's trying to steal all our stuff again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Just when you think you're safe, overhear some hissing from right behind",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Right, right behind",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "That's a nice life you have, shame it's gotta end at this time, time, time",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Time, time, time, time",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Blows up, then your health bar drops, you could use a 1-up, get inside don't be tardy",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "So now you're stuck in there, half a heart is left but don't die, die, die",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Die, die, die, die",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, the creeper's trying to steal all your stuff again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, you grab your pick, shovel and bolt again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "And run, run until it's done, done, until the sun comes up in the morn'",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, the creeper's trying to steal all your stuff again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Creepers, you're mine",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Dig up diamonds, and craft those diamonds and make some armor",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Get it baby, go and forge that like you so, MLG pro",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "The sword's made of diamonds, so come at me bro",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Training in your room under the torch light",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Hone that form to get you ready for the big fight",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Every single day and the whole night,",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Creeper's out prowlin' - alright",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Look at me, look at you",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Take my revenge that's what I'm gonna do",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "I'm a warrior baby, what else is new",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "And my blade's gonna tear through you",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Bring it",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, the creeper's trying to steal all our stuff again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Yeah baby tonight, grab your sword, armor and gold, take your revenge",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "So fight, fight like it's the last, last night of your life, life, show them your bite",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, the creeper's trying to steal all our stuff again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, you grab your pick, shovel and bolt again",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "And run, run until it's done, done, until the sun comes up in the morn'",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "'Cause baby tonight, the creepers tried to steal all our stuff again",
     [2] = "All"
 }
 
