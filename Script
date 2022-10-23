@@ -16,8 +16,15 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 
 wait(3)
 local args = {
-    [1] = "So we back in the mine
-",
+    [1] = "So we back in the mine",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Got our pickaxe swinging from side to side",
     [2] = "All"
 }
 
