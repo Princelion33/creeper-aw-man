@@ -29,3 +29,11 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Side-side to side",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
