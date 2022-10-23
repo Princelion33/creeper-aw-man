@@ -1,1 +1,15 @@
-dfsgfds
+wait(1)
+local args = {
+    [1] = "Creeper",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+wait(3)
+local args = {
+    [1] = "Aw man",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
